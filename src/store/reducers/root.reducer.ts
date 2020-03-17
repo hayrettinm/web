@@ -29,6 +29,4 @@ const rootReducers: Reducer<IStateType> = combineReducers({root: rootReducer,
     account: accountReducer
 });
 
-
-
 export default rootReducers;
